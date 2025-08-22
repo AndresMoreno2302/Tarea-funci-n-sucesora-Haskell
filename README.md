@@ -1,0 +1,1 @@
+# Tarea-funci-n-sucesora-Haskell
